@@ -1,2 +1,3 @@
 # api
-public api documentation
+
+Documentazione pubblica relativa alle API di myfoglio
